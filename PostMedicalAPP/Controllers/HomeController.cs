@@ -42,10 +42,5 @@ namespace PostMedicalAPP.Controllers
         {
             return View();
         }
-
-        public ActionResult prueba()
-        {
-            return View();
-        }
     }
 }
