@@ -33,7 +33,8 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
-                        <li id="menuHome"><a href="/Home/Index">Home</a></li>
+                        <li>@Html.ActionLink("Home","Index","Home")</li>
+                        @*<li id="menuHome"><a href="/Home/Index">Home</a></li>*@
                         <li id="menuServices"><a href="/Home/Services">Services</a></li>
                         <li id="menuDoctors"><a href="/Home/Doctors">Doctors</a></li>
                         <li id="menuBlog"><a href="/Home/Blog">Blog</a></li>
