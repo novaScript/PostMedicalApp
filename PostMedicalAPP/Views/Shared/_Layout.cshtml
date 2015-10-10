@@ -35,7 +35,8 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li>@Html.ActionLink("Home","Index","Home")</li>
                         @*<li id="menuHome"><a href="/Home/Index">Home</a></li>*@
-                        <li id="menuServices"><a href="/Home/Services">Services</a></li>
+                        <li>@Html.ActionLink("Services","Services","Home")</li>
+                        @*<li id="menuServices"><a href="/Home/Services">Services</a></li>*@
                         <li id="menuDoctors"><a href="/Home/Doctors">Doctors</a></li>
                         <li id="menuBlog"><a href="/Home/Blog">Blog</a></li>
                         <li id="menuFaq"><a href="/Home/Faq">FAQs</a></li>
