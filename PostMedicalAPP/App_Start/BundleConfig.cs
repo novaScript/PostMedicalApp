@@ -21,7 +21,6 @@ namespace PostMedicalAPP
 
             bundles.Add(new ScriptBundle("~/bundles/extras").Include(
                       "~/Scripts/isotope.pkgd.min.js",
-                      "~/Scripts/modernizr-2.6.2.js",
                       "~/Scripts/owl.carousel.min.js",
                       "~/Scripts/wow.min.js"));
 
@@ -34,6 +33,7 @@ namespace PostMedicalAPP
                       "~/Content/css/owl.carousel.css",
                       "~/Content/css/owl.theme.css",
                       "~/Content/css/owl.transitions.css"));
+            BundleTable.EnableOptimizations = false;
         }
     }
 }

@@ -261,6 +261,7 @@
     <Content Include="Views\Home\Faq.cshtml" />
     <Content Include="Views\Home\Gallery.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
+    <None Include="Properties\PublishProfiles\apaez.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

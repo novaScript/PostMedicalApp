@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\AppPostmedical</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>10/10/2015 07:08:35</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>10/10/2015 07:08:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/09/2015 20:14:03</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/09/2015 20:14:03</publishTime>
+    </File>
+    <File Include="bin/PostMedicalAPP.dll">
+      <publishTime>10/10/2015 07:08:33</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>10/09/2015 20:14:03</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>10/09/2015 20:14:03</publishTime>
+    </File>
+    <File Include="Content/css/animate.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/bootstrap.min.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/flexslider.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/font-awesome.min.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/main.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/owl.carousel.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/owl.theme.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/css/owl.transitions.css">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.eot">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.svg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.ttf">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/fonts/fontawesome-webfont.woff2">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/fonts/FontAwesome.otf">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/1786577.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/1_235555_1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/5501-world-map-1680x1050-digital-art-wallpaper.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/6177817673_5ba53ffc2a_z.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/bg_direction_nav.png">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog10.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog1_min.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog2_min.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog3_min.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog4.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog4_min.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog5.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog5_min.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog6.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog7.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog8.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blog9.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blue-abstract-background - Copy.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/blue-abstract-background.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/care1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/care2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/care3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/client1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/client3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/client4.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/clinic.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/Contact-Slashsquare.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/cute-newborn-baby-photos-closeup-faces-of-young-happy-mother-with-cute-newborn-baby-royalty.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/dental1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/dental2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/depositphotos_5458601-Mother-and-baby.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/diagnostic1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/diagnostic2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctor1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctor2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctor3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctor4.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctor5.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctor6.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/doctors-img.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/donation1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/donation2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/donation3.JPG">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/donor1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/donor2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/donor3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/gradient-blue-computer.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/images.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/join.png">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/or-bg.png">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/pharmacy1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/pharmacy2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/phone-icon.png">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/rehabilitation1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/rehabilitation2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/ridgeviewmedicalclinic.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/service1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/service2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/service3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/service4.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/service5.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/service6.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/slider1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/slider2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/slider3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/staff1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/staff2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/staff3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/staff4.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/testimonial.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/title-bg.png">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/treatment1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/treatment2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/treatment3.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/treatment4.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/Untitled-1.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/Untitled-2.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Content/img/young-mother-two-daughters-playing-outdoors-12534007.jpg">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/09/2015 20:14:02</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>10/10/2015 07:08:34</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Scripts/isotope.pkgd.min.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Scripts/owl.carousel.min.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Scripts/wow.min.js">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Home/Blog.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Home/Doctors.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Home/Faq.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Home/Gallery.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/10/2015 06:55:37</publishTime>
+    </File>
+    <File Include="Views/Home/Services.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>10/10/2015 07:04:42</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>10/09/2015 20:14:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/10/2015 07:08:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
