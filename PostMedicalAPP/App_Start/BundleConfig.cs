@@ -32,7 +32,8 @@ namespace PostMedicalAPP
                       "~/Content/css/main.css",
                       "~/Content/css/owl.carousel.css",
                       "~/Content/css/owl.theme.css",
-                      "~/Content/css/owl.transitions.css"));
+                      "~/Content/css/owl.transitions.css",
+                      "~/Content/css/style-postmedical.css"));
             BundleTable.EnableOptimizations = false;
         }
     }

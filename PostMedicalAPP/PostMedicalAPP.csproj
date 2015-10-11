@@ -135,6 +135,7 @@
     <Content Include="Content\css\owl.carousel.css" />
     <Content Include="Content\css\owl.theme.css" />
     <Content Include="Content\css\owl.transitions.css" />
+    <Content Include="Content\css\style-postmedical.css" />
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\img\1786577.jpg" />
     <Content Include="Content\img\1_235555_1.jpg" />
@@ -188,6 +189,7 @@
     <Content Include="Content\img\gradient-blue-computer.jpg" />
     <Content Include="Content\img\images.jpg" />
     <Content Include="Content\img\join.png" />
+    <Content Include="Content\img\logo-postmedical.png" />
     <Content Include="Content\img\or-bg.png" />
     <Content Include="Content\img\pharmacy1.jpg" />
     <Content Include="Content\img\pharmacy2.jpg" />
